@@ -1,1 +1,1 @@
-My first readme
+I think coding is getting interesting with alx
